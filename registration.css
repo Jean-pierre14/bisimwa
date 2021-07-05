@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    width: 50%;
+    padding: 10px;
+    margin: 20px auto;
+    background-color: gray;
+}
+.content div{
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+}
+.content div input{
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 0.2rem;
+
+}
